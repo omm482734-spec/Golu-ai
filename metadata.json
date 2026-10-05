@@ -1,0 +1,6 @@
+{
+  "name": "Golu Rani AI Voice Assistant",
+  "description": "Real-time voice-to-voice AI assistant for Rohit Sir with multi-language conversation and Android actions.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
